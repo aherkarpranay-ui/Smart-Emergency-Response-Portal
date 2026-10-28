@@ -1,0 +1,6 @@
+<!doctype html><html><head><title>Smart Emergency Response Portal</title><link rel="stylesheet" href="assets/style.css"></head><body>
+<nav><div class="brand">🚨 SERP</div><div><a href="index.php">Home</a><a href="user/login.php">Login</a><a class="btn" href="user/register.php">Register</a><a href="admin/login.php">Admin</a></div></nav>
+<section class="hero"><h1>Smart Emergency Response Portal</h1><p>A simple portal for reporting emergencies and managing emergency response requests.</p><a class="btn" href="user/register.php">Report an Emergency</a></section>
+<div class="container"><h2>Emergency Services</h2><div class="cards">
+<div class="card">🚑<h3>Medical</h3><p>Report medical emergencies.</p></div><div class="card">🚒<h3>Fire</h3><p>Report fire-related emergencies.</p></div><div class="card">🚔<h3>Police</h3><p>Report crime or safety incidents.</p></div><div class="card">🌊<h3>Disaster</h3><p>Report flood and other disasters.</p></div></div></div>
+<footer>Smart Emergency Response Portal • Diploma Computer Engineering Project</footer></body></html>
